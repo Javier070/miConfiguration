@@ -1,0 +1,9 @@
+<keymap version="1" name="Windows copy 1" parent="$default">
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
+</keymap>

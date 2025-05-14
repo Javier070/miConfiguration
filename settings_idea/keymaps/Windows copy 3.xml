@@ -1,0 +1,9 @@
+<keymap version="1" name="Windows copy 3" parent="$default">
+  <action id="NewDirectoryProject">
+    <keyboard-shortcut first-keystroke="shift ctrl caps_lock" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="shift alt back_slash" />
+  </action>
+</keymap>

@@ -1,0 +1,11 @@
+IdeaVIM
+com.markskelton.one-dark-theme
+CMD Support
+Key Promoter X
+com.intellij.plugin.adernov.powershell
+org.igu.plugins.bettercomments
+com.mallowigi
+mobi.hsz.idea.gitignore
+izhangzhihao.rainbow.brackets
+ru.adelf.idea.dotenv
+com.koxudaxi.pydantic
