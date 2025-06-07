@@ -41,3 +41,6 @@ vnoremap y "+y
 
 " Pegar desde el portapapeles del sistema con 'p'
 nnoremap p "+p
+
+" Usar el portapapeles del sistema por defecto
+set clipboard+=unnamedplus
