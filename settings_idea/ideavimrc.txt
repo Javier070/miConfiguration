@@ -44,3 +44,6 @@ nnoremap p "+p
 
 " Usar el portapapeles del sistema por defecto
 set clipboard+=unnamedplus
+
+"Ctrl+y funciona como deberia
+nnoremap <C-y> :redo<CR>
