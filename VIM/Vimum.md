@@ -1,4 +1,4 @@
->**shift + ? = plantilla atajos de teclado**
+>**? = plantilla atajos de teclado**
 
 g GG = top y bottom of page 
 i =insert mode
