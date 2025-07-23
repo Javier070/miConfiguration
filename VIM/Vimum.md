@@ -1,6 +1,8 @@
-g GG 
-i =insert mode
+>**shift + ? = plantilla atajos de teclado**
 
+g GG = top y bottom of page 
+i =insert mode
+ 
 ---
 o = abrir barra de navegación,
 
