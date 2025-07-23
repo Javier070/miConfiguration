@@ -1,5 +1,6 @@
 [[Vimum]]
 [[NerdTree - vim plugin]]
+[[settings_idea/ideavimrc.txt]]
 
 con d +w borras el caracter en el que estás 
 
